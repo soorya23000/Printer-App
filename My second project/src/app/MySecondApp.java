@@ -10,9 +10,9 @@ public class MySecondApp {
 		creater = " Soorya" ;
 		System.out.println(" This app is made by" + creater);
 		
-		int Num1 = 10;
+		int Number1 = 10;
 		int Number2 = 20;
-		System.out.println(Num1);
+		System.out.println(Number1);
 		System.out.println(Number2);
 		
 		int number1= 20;
