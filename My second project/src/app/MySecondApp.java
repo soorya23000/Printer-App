@@ -20,10 +20,10 @@ public class MySecondApp {
 		System.out.println(" The value of number1 is " + number1);
 		System.out.println(" The value of number2 is " + number2);
 		
-		//Multiplication
-		int multiplication;
-		multiplication = number1 * number2;
-		System.out.println (multiplication);
+		//Multiplications
+		int multiplications;
+		multiplications = number1 * number2;
+		System.out.println (multiplications);
 		
 		//Addition
 		int addition;
